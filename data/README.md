@@ -1,5 +1,5 @@
 # データセクション
 
-1. [筐体](data/rigs.md)
-2. [プラグイン](data/plugins.md)
-3. [アイテム](data/items.md)
+1. [筐体](rigs.md)
+2. [プラグイン](plugins.md)
+3. [アイテム](items.md)
