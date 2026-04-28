@@ -1,4 +1,6 @@
-# 目次
+# 『誰が為の理想郷（だれがためのアルカディア）』
+
+## 目次
 
 1. [はじめに](introduction/)
    1. [『誰が為の理想郷』とは](introduction/about-arcadia.md)
